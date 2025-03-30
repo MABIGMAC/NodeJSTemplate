@@ -1,27 +1,30 @@
 ---
-name: Bug report 🐛
+name: "Bug report \U0001F41B"
 about: Create a report to help us improve
-title: '[BUG REPORT] - <title>'
-labels: bug
-assignees: neverovski
+title: "[BUG REPORT] - <title>"
+labels: bug, enhancement
+assignees: MABIGMAC
 
 ---
 
-**Describe the bug**
+## Description
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-How to reproduce the behaviour:
-1. Sample code '...'
-2. Input '....'
-3. Unit test '....'
-4. Thrown error
+## To Reproduce
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**Expected behaviour**
+## Expected behavior
 A clear and concise description of what you expected to happen.
 
-**Environment (please complete the following information):**
- - Node.js: [20]
+## Acceptance Criteria
+A clear and concise description of requirements so that when all of them are fulfilled, The issue is considered complete and can be closed.
 
-**Additional context**
-Add any other context about the problem here.
+## Screenshots
+If applicable, add screenshots to help explain your problem.
+
+## Notes
+Add any other context or screenshots about the feature here.
