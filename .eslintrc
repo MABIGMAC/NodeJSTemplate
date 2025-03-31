@@ -142,7 +142,7 @@
     "import/extensions": [
       "error",
       "ignorePackages",
-      { "ts": "never" }
+      { "ts": "never","tsx": "never" }
     ],
     "typescript-sort-keys/interface": "off",
     "typescript-sort-keys/string-enum": "error"
